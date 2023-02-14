@@ -1,0 +1,7 @@
+GCP_CLIENT_ID="xxxxxxxxxxxxx.apps.googleusercontent.com"
+GCP_CLIENT_SECRET="XXXXXXXXXXXXXXXXXX"
+VAULT_ADDRESS="http://localhost:8200"
+VAULT_SKIP_VERIFY=true
+VAULT_TOKEN="hvs.XXXXXXXXXXXXXXXXX"
+GCP_ADMIN_IMPERSONATE_EMAIL="vaultisthebest@hashhash.com"
+GCP_CREDENTIAL_FILE="/my/gcp/service/account/credentials/service-account.json"
